@@ -1,6 +1,6 @@
 # 🖥️ Portfólio Técnico: Mapeando o Sistema Operacional
 
-**Nome:** Seu Nome  
+**Nome:** Lucas Lima da Silva
 **Data:** 07/05/2025
 
 ---
